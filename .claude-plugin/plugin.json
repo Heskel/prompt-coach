@@ -1,0 +1,12 @@
+{
+  "name": "prompt-coach",
+  "description": "Analyzes your Claude Code prompting history and provides actionable feedback to improve your prompting effectiveness",
+  "version": "1.0.0",
+  "author": {
+    "name": "Heskel"
+  },
+  "homepage": "https://github.com/Heskel/prompt-coach",
+  "repository": "https://github.com/Heskel/prompt-coach",
+  "license": "MIT",
+  "keywords": ["prompting", "analytics", "coaching", "feedback", "improvement"]
+}
