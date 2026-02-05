@@ -34,6 +34,8 @@ node "<skill-directory>/prompt-analyzer.js" --days 7 --limit 200
 node "<skill-directory>/prompt-analyzer.js" --days 7 --verbose
 ```
 
+**Note**: Replace `<skill-directory>` with the actual path to this skill's folder. On Windows this is typically `C:\Users\<username>\.claude\skills\prompt-coach\`.
+
 ## Interpreting Results
 
 ### Key Metrics
